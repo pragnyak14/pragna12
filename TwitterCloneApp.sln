@@ -8,11 +8,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterCloneMVCUI", "TwitterCloneMVCUI\TwitterCloneMVCUI.csproj", "{EC0553F8-5C90-4C25-9872-F870AA070AD6}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	GlobalSection(SolutionConfigurationPlatforms) = postsolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	GlobalSection(ProjectConfigurationPlatforms) = presolution
 		{8FEAFB42-BE0C-4F60-85FA-E00600CB10E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8FEAFB42-BE0C-4F60-85FA-E00600CB10E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FEAFB42-BE0C-4F60-85FA-E00600CB10E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
